@@ -1,4 +1,4 @@
-Hello world👋
+<h2>Hello world👋</h2>
 
 I'm Camila, a passionate Computer Science student currently in the 3rd semester. I'm continuously learning and improving my skills in programming, with a focus on Python.
 
