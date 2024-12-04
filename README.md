@@ -4,12 +4,18 @@ I'm Camila, a passionate Computer Science student currently in the 3rd semester.
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Camilasanches07&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=8A2BE2&icon_color=9932CC&text_color=A1A1A1&
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D26DF7&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Camila)](https://git.io/typing-svg)
 
+<div align="center">
 
-### 📫 How to reach me:
-- 📧 [camilasanchesferreira@hotmail.com](mailto:camilasanchesferreira@hotmail.com)
-- 🌐 [in/camilasanchesferreira](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAD1E0D8B22VX2qSQU19JYbZdEXtR8h-eyVs&keywords=camila%20sanches%20ferreira&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=1d1f3314-9f9a-4a64-9383-8487d76b5835&sid=%40Hb&spellCorrectionEnabled=true)
+<h3>Main Skills!</h3>
 
-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Camilasanches07&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+[![My Skills](https://skillicons.dev/icons?i=python,rails,html)](https://skillicons.dev)
+
+</div>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Camilasanches07
+    Castro&show_icons=true&count_private=true&hide_border=true&title_color=D26DF7&icon_color=D26DF7&text_color=e6e6e6&bg_color=1a1a1c&rank_icon=github&" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilasanches07&layout=compact&hide_border=true&title_color=D26DF7&text_color=e6e6e6&bg_color=1a1a1c" />
+</div>
 
