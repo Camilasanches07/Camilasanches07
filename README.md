@@ -14,8 +14,6 @@ I'm Camila, a passionate Computer Science student currently in the 3rd semester.
 
 </div>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Camilasanches07
-    Castro&show_icons=true&count_private=true&hide_border=true&title_color=D26DF7&icon_color=D26DF7&text_color=e6e6e6&bg_color=1a1a1c&rank_icon=github&" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Camilasanches07&show_icons=true&count_private=true&hide_border=true&title_color=D26DF7&icon_color=D26DF7&text_color=e6e6e6&bg_color=1a1a1c&rank_icon=github" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilasanches07&layout=compact&hide_border=true&title_color=D26DF7&text_color=e6e6e6&bg_color=1a1a1c" />
 </div>
-
