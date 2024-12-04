@@ -4,7 +4,7 @@ I'm Camila, a passionate Computer Science student currently in the 3rd semester.
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D26DF7&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Camila)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D26DF7&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Camila)](https://git.io/typing-svg)
 
 <div align="center">
 
