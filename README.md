@@ -1,6 +1,7 @@
 <h2>Hello world👋</h2>
 
 I'm Camila, a passionate Computer Science student currently in the 3rd semester. I'm continuously learning and improving my skills in programming, with a focus on Python.
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Camilasanches07&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 ### 📫 How to reach me:
 - 📧 [camilasanchesferreira@hotmail.com](mailto:camilasanchesferreira@hotmail.com)
