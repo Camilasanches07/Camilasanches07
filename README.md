@@ -10,7 +10,7 @@ I'm Camila, a passionate Computer Science student currently in the 4rd semester.
 
 <h3>Main Skills!</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,rails,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,rails,html,css,js,react)](https://skillicons.dev)
 
 </div>
 <div align="center">  
