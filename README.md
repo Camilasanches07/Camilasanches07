@@ -1,7 +1,7 @@
 <h2>Hello world 👋</h2>
 
 I'm **Camila**, a passionate developer focused on creating functional, efficient, and visually appealing web applications.  
-I work with * HTML, CSS, JavaScript, and React**, always aiming for clean, maintainable, and scalable code.  
+I work with *HTML*, *CSS*, *JavaScript*, and *React*, always aiming for clean, maintainable, and scalable code.  
 I’m constantly exploring new technologies to enhance my skills and deliver better solutions.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D26DF7&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Camila;Welcome+to+my+GitHub!;I+love+coding+and+creating+solutions)](https://git.io/typing-svg)
